@@ -45,6 +45,3 @@ This project controls a stepper motor using the AccelStepper library and a light
 ## Future Improvements
 - Add functionality to adjust the motor speed or angle based on light sensor readings.
 - Implement additional feedback, such as LEDs or an LCD screen.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
